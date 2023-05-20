@@ -1,6 +1,6 @@
 # hisaap_app
 
-A new Flutter project.
+A Flutter project which provide a debit or credit amount against user of the App in real time.
 
 ## Getting Started
 
