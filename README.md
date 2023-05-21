@@ -1,7 +1,6 @@
 # hisaap_app
 
-
-It is a Flutter based Android project. Its calculate the expenses done by the users and provide a debit or credit amount against each user of the App in real time.  
+This is a Flutter-based Android app. It calculates the expenses the users do and provides a debit or credit amount against each user of the App in real-time. 
 
 ## Getting Started
 
